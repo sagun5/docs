@@ -1,0 +1,12 @@
+site_name: Userguides
+theme: cosmo
+
+pages:
+- Home: 'index.md'
+- Application: 
+   - Onboarding Client: 'application/client.md'
+   - Rocketchat: 'application/rocketchat.md'
+- Release Notes: 'changelog.md'
+    
+
+
