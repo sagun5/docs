@@ -7,9 +7,9 @@ Users versed with the popular messaging platform, Slack, will find Rocket.Chat v
 # How to Download Rocket.Chat
 You can connect to Rocket.Chat in one of three ways - in your browser, computer or mobile. The browser variant is compatible with all popular browsers. Desktop versions are available for Windows, Mac and Linux. Mobile variants can be downloaded from Apple’s App Store or Google’s Play Store. 
 
-You can download Rocket.Chat here*: https://rocket.chat/download
+You can download Rocket.Chat here*: [https://rocket.chat/download](https://rocket.chat/download)
 
-*Windows machines have some issues managing multiple instances of Rocket.Chat. You can connect to your instance from the browser or use consolidated messaging app (such as Franz -  http://meetfranz.com/)
+*Windows machines have some issues managing multiple instances of Rocket.Chat. You can connect to your instance from the browser or use consolidated messaging app (such as Franz -  [http://meetfranz.com/](http://meetfranz.com/))
 
 # Connecting to Rocket.Chat
 
@@ -43,7 +43,7 @@ Fly in panel: The rightmost pane, again of vertically stacked icons, are like dr
 # Changing your Profile
 If you want to update your profile - say fill in some details, put a cool profile picture, change your notification settings, then you can do so by going to My Accounts. 
 ![My account](img/my-account.gif)
-<p style="text-align: center; color: blue">Image: My account</p><br>
+<p style="text-align: left; color: blue">Image: My account</p><br>
 
 In the Preferences tab, see above, you can customize your Rocket.Chat experience such as general layout, notification settings, etc
 
@@ -150,12 +150,13 @@ To bring someone’s attention to a message, you can mention them. Type @ follow
 | @all                                     | Mention everyone in the channel                           | 
 | @here                                    | Mention everyone currently online                                               
 
+Although @all and @here are useful for important announcements, it can be distracting if abused.
 
 ### Replying to a message
-Conversations in Rocket.Chat are not layered like in discussion boards. So Replying to messages is a good way to provide context to your recipients. To pull up the reply option, hover over the message and click on the reply option (see below)
+Conversations in Rocket.Chat are not layered like in discussion boards. So Replying to messages is a good way to provide context to your recipients. To pull up the reply option, hover over the message and click on the *reply* option (see below)
 
 
-![Reply](/img/reply-message.gif)
+![Reply](img/reply-message.gif)
 <p style="text-align: center; color: blue">Image:Replying to a message in Rocket.Chat </p><br>
 
 The original message is indented for better readability 
@@ -165,11 +166,10 @@ The original message is indented for better readability
 
 
 ### Referencing Messages with Permalink
-You can create a link to a message using the permalink feature in Rocket.Chat. To create a permalink, hover over the message, click on the cog icon and then the link (or chain icon). This copies the link to your clipboard. 
+You can create a link to a message using the permalink feature in Rocket.Chat. To create a permalink, hover over the message, click on the cog icon and then the link (or chain icon). This copies the link to your clipboard.
 
-
-![Reply](img/reply.png)
-<p style="text-align: center; color: blue">Image: Message indentation in reply </p><br>
+![Reply](img/permalink.png)
+<p style="text-align: center; color: blue">Image: Referencing messages with Permalink </p><br>
 
 Share the link where appropriate. Clicking on the link automatically navigates to the said message in Rocket.Chat.
 
@@ -287,3 +287,7 @@ To unpin a message, similar to un-starring it, pull up the Pinned Message drawer
 
 
 
+
+
+
+Disclaimer: Some excerpts are taken from Rocket.Chat’s user guide which is available here: [https://rocket.chat/docs/](https://rocket.chat/docs/)
