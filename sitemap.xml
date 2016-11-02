@@ -12,13 +12,29 @@
     
         
     <url>
-     <loc>None/application/client/</loc>
+     <loc>None/Client Onboard/client/</loc>
+     <lastmod>2016-11-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/rocketchat/introduction/</loc>
      <lastmod>2016-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>None/application/rocketchat/</loc>
+     <loc>None/rocketchat/channel/</loc>
+     <lastmod>2016-11-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/rocketchat/messaging/</loc>
      <lastmod>2016-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
